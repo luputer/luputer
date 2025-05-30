@@ -1,5 +1,6 @@
 
 # 👋 Hi, I'm Saidi!
+Informatics Engineering undergraduate with a passion for software development and web & app technology.
 ## about me:
 👨🏻‍💻 I am a fullstack web developer and junior mobile developer<br>🚀 I enjoy collaborating on projects<br>🌱 I’m currently learning fullstack developer with React and expess JS<br>💬 Ask me about Coding?<br>⚡ I love coding ♥️
 
