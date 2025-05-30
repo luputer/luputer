@@ -1,6 +1,6 @@
-#👋 Hi, I'm Saidi!
 
-# 💫 About Me:
+
+# 👋 Hi, I'm Saidi!:
 👨🏻‍💻 I am a fullstack web developer and junior mobile developer<br>🚀 I enjoy collaborating on projects<br>🌱 I’m currently learning fullstack developer with React and expess JS<br>💬 Ask me about Coding?<br>⚡ I love coding ♥️
 
 
